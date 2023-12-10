@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# yarn
+yarn-error.log
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# Mac OS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Project-specific
+dist/
